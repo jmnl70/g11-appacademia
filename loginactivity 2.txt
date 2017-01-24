@@ -1,0 +1,3 @@
+Metodo oncreate()
+
+hemos creado una copia
